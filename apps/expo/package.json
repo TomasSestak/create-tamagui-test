@@ -45,6 +45,7 @@
     "typescript": "^5.1.3"
   },
   "resolutions": {
+    "typescript": "^5.1.3",
     "metro": "0.76.0",
     "metro-resolver": "0.76.0"
   },
